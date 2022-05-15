@@ -1,4 +1,4 @@
-# escape_room_finder
+# FindEscapeRooms
 
 Program created to find escape rooms worth to seen near choosen location. 
 It uses data from lock.me portal, API for checking distance between ER and current location.
